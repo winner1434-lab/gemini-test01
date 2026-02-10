@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartPMS Pro - Advanced Rate & Event Manager",
+  "description": "A comprehensive demo application for property managers featuring 2FA login, event-driven rule engines for auto-stop-sell, and dynamic PMS rate synchronization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
